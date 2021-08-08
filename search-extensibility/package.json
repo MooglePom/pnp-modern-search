@@ -13,7 +13,7 @@
         "test": "gulp test"
     },
     "dependencies": {
-        "@types/webpack-env": "1.13.1",
+        "@types/webpack-env": "1.16.2",
         "@webcomponents/custom-elements": "1.4.3"
     },
     "devDependencies": {
