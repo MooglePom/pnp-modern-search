@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "@types/webpack-env": "1.13.1",
-        "@webcomponents/custom-elements": "1.4.3"
+        "@webcomponents/custom-elements": "1.5.0"
     },
     "devDependencies": {
         "@microsoft/rush-stack-compiler-3.7": "0.2.8",
